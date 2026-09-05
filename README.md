@@ -3,8 +3,6 @@ Power BI dashboard analyzing iPhone sales, revenue, profit, customer behavior, a
 ### Project Objective:
 To use Business Intelligence and Data Visualization techniques to analyze iPhone sales data and generate actionable insights related to sales, revenue, profit, customers, and product performance.
 
-### Project Overview
-
 This project focuses on analyzing iPhone sales in India using Microsoft Power BI. The dashboard provides an interactive view of sales performance, revenue, profit, customer behavior, payment methods, and iPhone model performance.
 
 The objective is to transform sales data into meaningful business insights that can support better decision-making.
